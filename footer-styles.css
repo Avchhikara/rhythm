@@ -1,0 +1,46 @@
+
+
+.links{
+	color: #ffffff;
+
+}
+
+.links:hover{
+	color:white;
+}
+
+.footer-color{
+/*	background: linear-gradient(to bottom left,#c06 10%,#90c 86%) !important; */
+	
+/*  background: #8E0E00;  /* fallback for old browsers */
+/*	background: -webkit-linear-gradient(to top, #1F1C18, #8E0E00);  /* Chrome 10-25, Safari 5.1-6 */
+/*	background: linear-gradient(to top, #1F1C18, #c06); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+/*	background: #7b4397;  /* fallback for old browsers */
+/*	background: -webkit-linear-gradient(to top, #dc2430, #7b4397);  /* Chrome 10-25, Safari 5.1-6 */
+/*	background: linear-gradient(to top, #dc2430, #7b4397); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+/*	background: #833ab4;  /* fallback for old browsers */
+/*	background: -webkit-linear-gradient(to top, #fcb045, #fd1d1d, #833ab4);  /* Chrome 10-25, Safari 5.1-6 */
+/*	background: linear-gradient(to top, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+	background: #6441A5;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to top, #2a0845, #6441A5);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to top, #2a0845, #6441A5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+.social-links{
+	color:white;
+	
+}
+
+.social-links:hover{
+	text-decoration: none;
+	color: white;
+}
+
+.bottom-gradient{
+	
+}
